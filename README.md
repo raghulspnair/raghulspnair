@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=200&section=header&text=Raghul%20S%20P&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=230&section=header&text=Raghul%20S%20P&fontSize=48&fontColor=ffffff&animation=fadeIn"
+  width="100%" />
 </p>
 
 <h3 align="center">🚀 DevOps Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD | ☸️ Kubernetes</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Specialist;Automation+Expert;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Specialist;Automation+Expert;Building+Scalable+Systems" />
 </p>
 
 ---
@@ -13,7 +14,7 @@
 ## 🌟 About Me
 
 💎 DevOps Engineer with **1.8+ years experience**  
-⚡ Expert in **Cloud, Automation & Scalable Infrastructure**  
+⚡ Specialized in **Cloud, Automation & Scalable Infrastructure**  
 🚀 Passionate about building **Production-grade systems**  
 
 ---
@@ -74,5 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:243B55&height=120&section=footer"/>
 </p>
+
+<p align="center">✨ <b>Automate everything. Scale anything.</b> ✨</p>
