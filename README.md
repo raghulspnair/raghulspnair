@@ -1,63 +1,59 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&lines=🔥+Hi+👋,+I'm+Raghul+S+P;🚀+DevOps+Engineer;☁️+Cloud+%7C+🐳+Docker+%7C+⚙️+CI/CD" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=200&section=header&text=Raghul%20S%20P&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-0ff?style=for-the-badge&logo=azuredevops&logoColor=black&labelColor=111&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-ff9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</h3>
+<h3 align="center">🚀 DevOps Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD | ☸️ Kubernetes</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A5ACD&height=2&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Specialist;Automation+Expert;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-✨ DevOps Engineer with **1.8+ years experience**  
-⚡ Passionate about **Automation, Cloud & Scalable Systems**  
-🔍 Love building **Production-grade Infrastructure**  
+💎 DevOps Engineer with **1.8+ years experience**  
+⚡ Expert in **Cloud, Automation & Scalable Infrastructure**  
+🚀 Passionate about building **Production-grade systems**  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,nginx,postgres,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,nginx,postgres,bash&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghulspnair&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghulspnair&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghulspnair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghulspnair&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulspnair&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulspnair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 🔹 **MultiAccess**  
 💡 Service ticket & asset management platform  
 
 🔹 **Infodotz360 (Z360)**  
-💡 Multi-tenant IT platform with automation workflows  
+💡 Multi-tenant IT automation platform  
 
 ---
 
 ## 🏆 Achievements
 
 🏅 Reduced deployment effort by **50% using CI/CD**  
-🏅 Built scalable **container architecture**  
-🏅 Implemented **Monitoring & Logging Stack**  
+🏅 Built scalable **containerized architecture**  
+🏅 Implemented **monitoring & logging stack**  
 
 ---
 
@@ -78,7 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=120&section=footer"/>
 </p>
-
-<p align="center">✨ <b>Automate everything. Scale anything.</b> ✨</p>
