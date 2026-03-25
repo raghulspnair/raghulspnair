@@ -1,77 +1,74 @@
-<h1 align="center">Hi 👋, I'm Raghul S P</h1>
-<h3 align="center">DevOps Engineer | AWS | Docker | CI/CD | Kubernetes</h3>
+<h1 align="center">🔥 Hi 👋, I'm Raghul S P</h1>
+<h3 align="center">🚀 DevOps Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD | ☸️ Kubernetes</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+Lover;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 💫 About Me
-🚀 DevOps Engineer with 1.8+ years of experience in building scalable and production-grade systems.  
-🔧 Passionate about automation, cloud infrastructure, and observability.  
-📦 Experienced in containerized architectures and CI/CD pipelines.  
+## 🌟 About Me
+✨ DevOps Engineer with **1.8+ years experience**  
+⚡ Passionate about **Automation, Cloud & Scalable Systems**  
+🔍 Love building **Production-grade Infrastructure**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud
-AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)
+<p align="center">
 
-### ⚙️ DevOps & CI/CD
-GitHub Actions, Docker, Docker Compose, Kubernetes
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,nginx,postgres,bash" />
 
-### 📊 Monitoring & Logging
-Prometheus, Grafana, Loki, Fluent Bit, Alertmanager
-
-### 🌐 Web & Proxy
-Nginx, Traefik
-
-### 🔐 Security
-Keycloak (RBAC), Cerbos (ABAC)
-
-### 🗄️ Database
-PostgreSQL
-
-### 💻 OS & Tools
-Linux (Ubuntu, CentOS, AlmaLinux), Bash, Git
-
----
-
-## 🚀 Projects
-
-### 🔹 MultiAccess
-- Service ticket & asset management platform  
-- Built using microservices architecture  
-- Supports multi-organization workflows  
-
-### 🔹 Infodotz360 (Z360)
-- Multi-tenant IT platform  
-- Real-time OEM data integration  
-- Employee onboarding & exit automation  
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Raghul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghulspnair&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghulspnair&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghulspnair&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghulspnair&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghulspnair&theme=radical)
-
----
-
-## 🏆 Key Achievements
-✔️ Automated CI/CD pipeline (reduced manual work by 50%)  
-✔️ Built scalable multi-tenant container architecture  
-✔️ Implemented full monitoring & logging stack  
-✔️ Improved system reliability with proactive alerting  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulspnair&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-📧 Email: raghulsp2002sree@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/raghul-sp-758a34290/  
-💻 GitHub: https://github.com/raghulspnair  
+## 🚀 Projects
+
+🔹 **MultiAccess**  
+💡 Service ticket & asset management platform  
+
+🔹 **Infodotz360 (Z360)**  
+💡 Multi-tenant IT platform with automation workflows  
 
 ---
 
-⭐️ From [raghulspnair](https://github.com/raghulspnair)
+## 🏆 Achievements
+
+🏅 Reduced deployment effort by **50% using CI/CD**  
+🏅 Built scalable **container architecture**  
+🏅 Implemented **Monitoring & Logging Stack**  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/raghul-sp-758a34290/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:raghulsp2002sree@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/raghulspnair">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ "Automate everything. Scale anything." ✨</p>
